@@ -46,7 +46,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/ia-collection"
+            "url": "https://github.com/lorenzosapora/ia-collection"
         }
     ],
     "require": {
@@ -56,8 +56,8 @@
         "pragmarx/coollection": "dev-update-ia-collection",
         "pragmarx/ia-arr": "dev-update-var-dumper",
         "pragmarx/ia-str": "dev-update-portable-ascii",
-        "pragmarx/ia-collection": "dev-update-var-dumper",
-        "pragmarx/countries": "dev-update-pragmarx-coollection"
+        "pragmarx/ia-collection": "dev-master",
+        "pragmarx/countries": "dev-master"
     },
 
     "require-dev": {
