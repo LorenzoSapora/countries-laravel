@@ -30,19 +30,19 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/coollection"
+            "url": "https://github.com/lorenzosapora/coollection"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/countries"
+            "url": "https://github.com/lorenzosapora/countries"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/ia-arr"
+            "url": "https://github.com/lorenzosapora/ia-arr"
         },
         {
             "type": "vcs",
-            "url": "https://github.com/asbiin/ia-str"
+            "url": "https://github.com/lorenzosapora/ia-str"
         },
         {
             "type": "vcs",
@@ -53,9 +53,9 @@
         "php": ">=7.0",
         "illuminate/support": ">=5.3",
         "psr/simple-cache": "^1.0|^2.0|^3.0",
-        "pragmarx/coollection": "dev-update-ia-collection",
-        "pragmarx/ia-arr": "dev-update-var-dumper",
-        "pragmarx/ia-str": "dev-update-portable-ascii",
+        "pragmarx/coollection": "dev-master",
+        "pragmarx/ia-arr": "dev-master",
+        "pragmarx/ia-str": "dev-master",
         "pragmarx/ia-collection": "dev-master",
         "pragmarx/countries": "dev-master"
     },
